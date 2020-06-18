@@ -49,7 +49,7 @@ INSTANCE_TYPE=t2.micro
 ACCOUNT_ID=561279834
 ```
 
-## Using ec2-metadaa cmd
+## Using ec2-metadata cmd
 on ec2 you can run `ec2-metadata` command to retrieve get metadata for specific key.
 
 ```sh
